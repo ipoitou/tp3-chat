@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: fr.univlyon1.m1if.m1if03.classes.UserTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.001 s - in fr.univlyon1.m1if.m1if03.classes.UserTest
